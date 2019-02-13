@@ -1,0 +1,19 @@
+/* ------ VARIABLES : TYPOGRAPHY ------ */
+
+// import webfonts from adobe fonts
+@import url("https://use.typekit.net/foi8snr.css");
+
+$josefin-font: 'josefin-sans', sans-serif;
+$letter-gothic-font: 'letter-gothic-std', monospace;
+$mr-eaves-font: 'mr-eaves-sans', sans-serif;
+$freight-font: 'freight-sans-pro', sans-serif;
+
+$body-font: $freight-font;
+$accent-font: $letter-gothic-font;
+$headers-font: $josefin-font;
+
+
+// weights
+$font-weight--book: 300; // letter
+$font-weight--regular: 400; // all
+$font-weight--bold: 700; // all
