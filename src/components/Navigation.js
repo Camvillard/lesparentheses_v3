@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const Navigation = (props) => {
+const NavigationItem = (props) => {
 
   return (
     <div>
@@ -10,4 +10,4 @@ const Navigation = (props) => {
   );
 };
 
-export default Navigation;
+export default NavigationItem;
